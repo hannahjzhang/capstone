@@ -1,7 +1,6 @@
 # hz-ghs-site
 An exploration in web development. <br>
 
-Page Navigation <br>
 Home, about me, contact <br>
 - https://hannah.gunnhigh.school/ <br>
 
