@@ -6,5 +6,6 @@ Home, about me, contact <br>
 
 How many slices: retrieves pizzas based on user requests <br>
 - https://hannah.gunnhigh.school/pizza-form/howmanyslices.html <br>
+- .api, .schemas, .app files not included <br>
 
 Currently working on a Face Collector sort thing.
