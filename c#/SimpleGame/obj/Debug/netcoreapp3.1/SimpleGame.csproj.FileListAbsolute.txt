@@ -1,0 +1,11 @@
+/Users/hannahzhang/Documents/2020-2021 School/CS/Unity/CmdLineMaze/SimpleGame/bin/Debug/netcoreapp3.1/SimpleGame.deps.json
+/Users/hannahzhang/Documents/2020-2021 School/CS/Unity/CmdLineMaze/SimpleGame/bin/Debug/netcoreapp3.1/SimpleGame.runtimeconfig.json
+/Users/hannahzhang/Documents/2020-2021 School/CS/Unity/CmdLineMaze/SimpleGame/bin/Debug/netcoreapp3.1/SimpleGame.runtimeconfig.dev.json
+/Users/hannahzhang/Documents/2020-2021 School/CS/Unity/CmdLineMaze/SimpleGame/bin/Debug/netcoreapp3.1/SimpleGame.dll
+/Users/hannahzhang/Documents/2020-2021 School/CS/Unity/CmdLineMaze/SimpleGame/bin/Debug/netcoreapp3.1/SimpleGame.pdb
+/Users/hannahzhang/Documents/2020-2021 School/CS/Unity/CmdLineMaze/SimpleGame/obj/Debug/netcoreapp3.1/SimpleGame.AssemblyInfoInputs.cache
+/Users/hannahzhang/Documents/2020-2021 School/CS/Unity/CmdLineMaze/SimpleGame/obj/Debug/netcoreapp3.1/SimpleGame.AssemblyInfo.cs
+/Users/hannahzhang/Documents/2020-2021 School/CS/Unity/CmdLineMaze/SimpleGame/obj/Debug/netcoreapp3.1/SimpleGame.csproj.CoreCompileInputs.cache
+/Users/hannahzhang/Documents/2020-2021 School/CS/Unity/CmdLineMaze/SimpleGame/obj/Debug/netcoreapp3.1/SimpleGame.dll
+/Users/hannahzhang/Documents/2020-2021 School/CS/Unity/CmdLineMaze/SimpleGame/obj/Debug/netcoreapp3.1/SimpleGame.pdb
+/Users/hannahzhang/Documents/2020-2021 School/CS/Unity/CmdLineMaze/SimpleGame/obj/Debug/netcoreapp3.1/SimpleGame.genruntimeconfig.cache
